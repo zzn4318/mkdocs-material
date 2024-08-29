@@ -36,6 +36,7 @@ copyright: Copyright &copy; 2016 - 2024 Martin Donath
 # Configuration
 theme:
   name: material
+  language: zh
   custom_dir: material/overrides
   features:
     - announce.dismiss
