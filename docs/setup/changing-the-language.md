@@ -10,13 +10,13 @@ available.
 ### Site language
 
 <!-- md:version 1.12.0 -->
-<!-- md:default `en` -->
+<!-- md:default `zh` -->
 
 You can set the site language in `mkdocs.yml` with:
 
 ``` yaml
 theme:
-  language: en # (1)!
+  language: zh # (1)!
 ```
 
 1.  HTML5 only allows to set a [single language per document], which is why
